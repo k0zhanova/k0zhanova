@@ -79,12 +79,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_autoae.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_promiq.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]
+[<img src="/internship_promiq.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/k0zhanova/k0zhanova/refs/heads/main/internship_promiq.png)
+[<img src="/internship_autoae.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/k0zhanova/k0zhanova/refs/heads/main/internship_autoae.png)
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/k0zhanova/k0zhanova/refs/heads/main/diplom.png)
 
 <br>
 <br>
